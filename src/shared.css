@@ -22,13 +22,13 @@
 }
 .about > div
 {
-    width:40%;
+    width:50%;
     margin: 0 2vmin;
 }
 .profilpic
 {
     align-self: flex-start;
-    width:100%;
+    width: 80%;
     opacity: 0.5;
     border: rgb(207, 203, 203) double 20px;
     border-radius: 100%;
@@ -37,7 +37,7 @@
 .viewport-header2 {
     position: relative;
     height: 100vh;
-    text-align: justify;
+    text-align: left;
     align-items: center;
     justify-content: center;
     display: flex;

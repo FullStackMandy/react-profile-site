@@ -16,10 +16,10 @@ function About() {
                             href="https://techgrounds.nl"
                             target="_blank"
                             rel="">Techgrounds Amsterdam.</a>
-                     &nbsp;Last august I made it through the selection roundes and currently I'm learning how to become a jr. frontend developer.
-                    In only 3 month's I learnt so much on hardskills: html/css sass bootstrap javascript react and on softskills.
-                    I'm looking forward to put my newly gained skills into practice as an employe in IT and keep on learning/developing.
-                    So, I'm open for business. If you are to, contact me by e-mail:.........</p>
+                     &nbsp;Currently I'm learning how to become a jr. frontend developer.
+                    In only 3 month's I got to know the basics of:html/css sass bootstrap javascript react and softskills.
+                    I'm looking forward to put my newly gained skills into practice as an employe in IT and keep on developing.
+                    So, I'm open for business. If you are to, contact me by e-mail:fullstackmandy@gmail.com.</p>
                 </section>
             </div>
         </div>
